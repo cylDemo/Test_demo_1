@@ -3,7 +3,7 @@ import pytest
 
 def test_add():
     cal = Cal()
-    assert 4 == cal.add(2, 2)
+    assert 6 == cal.add(2, 4)
 
 if __name__ == '__main__':
     pytest.main()
