@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e06232c8-bee8-41cd-b0f9-9dfe3f33f09b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceDir/Calculater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceDir/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDir/TestCalculater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDir/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Test_demo_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Test_demo_1.iml" afterDir="false" />
+    <list default="true" id="e06232c8-bee8-41cd-b0f9-9dfe3f33f09b" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDir/TestCalculater.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestDir/TestCalculater.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/common/bubble_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -34,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/SourceDir/Calculater.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -42,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestDir/TestCalculater.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="270">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -86,7 +81,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,6 +107,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,7 +116,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/SourceDir/Calculater.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,17 +258,28 @@
       <workItem from="1684158018927" duration="865000" />
       <workItem from="1688475383471" duration="5794000" />
       <workItem from="1688488875688" duration="1429000" />
-      <workItem from="1688490328489" duration="295000" />
+      <workItem from="1688490328489" duration="2030000" />
+      <workItem from="1688492397459" duration="429000" />
+      <workItem from="1688570418134" duration="610000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1688490711925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688490711925</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1688491831284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688491831284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_TestCalculater_py - 2023.07.05 at 00h 44m 21s.xml">
-      <configuration name="pytest in TestCalculater.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_Calculater_py - 2023.07.05 at 00h 45m 44s.xml">
-      <configuration name="pytest in Calculater.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_Calculater_py - 2023.07.05 at 00h 45m 54s.xml">
       <configuration name="pytest in Calculater.py" configurationId="tests" />
     </history-entry>
@@ -298,9 +304,15 @@
     <history-entry file="pytest_in_TestCalculater_py - 2023.07.05 at 01h 00m 27s.xml">
       <configuration name="pytest in TestCalculater.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_TestCalculater_py - 2023.07.05 at 01h 30m 10s.xml">
+      <configuration name="pytest in TestCalculater.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_TestCalculater_py - 2023.07.05 at 23h 24m 18s.xml">
+      <configuration name="pytest in TestCalculater.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9875000" />
+    <option name="totallyTimeSpent" value="12649000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,20 +327,20 @@
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.15511727" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.15831557" />
       <window_info id="Structure" order="1" sideWeight="0.50086653" side_tool="true" weight="0.15351813" />
       <window_info id="Favorites" order="2" sideWeight="0.50086653" side_tool="true" weight="0.15351813" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.4002079" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.2782516" visible="true" weight="0.32328483" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952183" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.22349273" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.7217484" side_tool="true" visible="true" weight="0.32328483" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32952183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -382,12 +394,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test_demo_1$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1688487988995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/Test_demo_1$demo_1.coverage" NAME="demo_1 Coverage Results" MODIFIED="1688483442147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/Test_demo_1$pytest_in_TestCalculater_py.coverage" NAME="pytest in TestCalculater.py Coverage Results" MODIFIED="1688490026683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Test_demo_1$pytest_in_TestCalculater_py.coverage" NAME="pytest in TestCalculater.py Coverage Results" MODIFIED="1688570657231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Test_demo_1$TestCalculater.coverage" NAME="TestCalculater Coverage Results" MODIFIED="1688488788926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestDir" />
     <SUITE FILE_PATH="coverage/Test_demo_1$pytest_in_Calculater_py.coverage" NAME="pytest in Calculater.py Coverage Results" MODIFIED="1688489153611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
@@ -403,21 +416,21 @@
     <entry file="file://$PROJECT_DIR$/common/bubble_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SourceDir/Calculater.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestDir/TestCalculater.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="270">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
