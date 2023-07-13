@@ -8,5 +8,5 @@ def bubble_sort(arr):
     for i in range(len(arr)):
         print("%d" %arr[i])
 
-arr = [56, 25, 78, 32, 14, 69, 54, 65, 98, 12, 24, 66]
+arr = [56, 25, 78, 32, 14, 69, 54, 65, 98, 12, 24]
 bubble_sort(arr)
